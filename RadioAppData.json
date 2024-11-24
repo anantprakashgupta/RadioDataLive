@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "title": "Buxar Radio Br-44",
+    "image": "https://path-to-your-image/buxarlogo.jpg",
+    "streamUrl": "http://192.168.146.42:8000/stream"
+  },
+  {
+    "id": "2",
+    "title": "Anant Prakash Radio",
+    "image": "https://path-to-your-image/ap.jpg",
+    "streamUrl": "http://192.168.146.42:8000/stream"
+  },
+  {
+    "id": "3",
+    "title": "Bhojpuri 90s Hits",
+    "image": "https://path-to-your-image/gold.jpg",
+    "streamUrl": "https://stream.zeno.fm/gxgncq8t2gruv?n=a12c0f6e07cd75cfbc6d"
+  },
+  {
+    "id": "4",
+    "title": "Bhojpuri Purvi Radio",
+    "image": "https://path-to-your-image/PURVI.jpeg",
+    "streamUrl": "https://stream.zeno.fm/wvms51v1dy8uv?n=9e350355b7d270ed49fe"
+  },
+  {
+    "id": "5",
+    "title": "Bhojpuri Dj Mix Radio",
+    "image": "https://path-to-your-image/djremix.jpg",
+    "streamUrl": "https://stream.zeno.fm/cltwaiabkauvv?n=9dff61062f2fba305afd"
+  },
+  {
+    "id": "6",
+    "title": "Bhojpuri Sadabahar Radio",
+    "image": "https://path-to-your-image/sadabahar.jpg",
+    "streamUrl": "https://stream.zeno.fm/tbn8c0zdka0uv?n=cfce2f2380bbb3fcbcc9"
+  },
+  {
+    "id": "7",
+    "title": "Pawan Singh Radio",
+    "image": "https://path-to-your-image/PAWAN.jpeg",
+    "streamUrl": "https://stream.zeno.fm/zqyhigwwo5mvv?n=c112752370df52c5195c"
+  },
+  {
+    "id": "8",
+    "title": "Kumar Sanu Radio",
+    "image": "https://path-to-your-image/SANU.jpg",
+    "streamUrl": "https://stream-26.zeno.fm/70nen96vgs8uv?n=f7064789079de468485c"
+  },
+  {
+    "id": "9",
+    "title": "Udit Narayan Radio",
+    "image": "https://path-to-your-image/UDIT.jpeg",
+    "streamUrl": "https://stream.zeno.fm/ke8m4vr3ss8uv?n=b2f5dd1e2f41a0eeffab"
+  },
+  {
+    "id": "10",
+    "title": "Arijit Singh Radio",
+    "image": "https://path-to-your-image/ARIJIT.jpeg",
+    "streamUrl": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio?n=d87e974457a63bb9dc7e"
+  },
+  {
+    "id": "11",
+    "title": "Kishor Kumar Radio",
+    "image": "https://path-to-your-image/KISHOR.jpeg",
+    "streamUrl": "https://stream-48.zeno.fm/0ghtfp8ztm0uv?zs=Kr_rJK1kSsKPKeUo9zgTxw&rj-ttl=5&rj-tok=AAABefQSIpIAGxcgV3Wv5gK8Kg?n=f7176d44471e85431d16"
+  },
+  {
+    "id": "12",
+    "title": "Mohammad Raffi Radio",
+    "image": "https://path-to-your-image/RAFFI.jpeg",
+    "streamUrl": "https://stream.zeno.fm/6yqvumgfxtzuv?n=113bc86e44ff7a8c20c0"
+  },
+  {
+    "id": "13",
+    "title": "Lata Mangeshkar Radio",
+    "image": "https://path-to-your-image/lata.jpeg",
+    "streamUrl": "https://stream.zeno.fm/87xam8pf7tzuv"
+  },
+  {
+    "id": "14",
+    "title": "Bhakti Hanuman Radio",
+    "image": "https://path-to-your-image/hanumanji.jpg",
+    "streamUrl": "https://dard.out.airtime.pro/dard_a?n=97ab361627928b97eb3a"
+  },
+  {
+    "id": "15",
+    "title": "Bhojpuri Bhakti Radio",
+    "image": "https://path-to-your-image/durga.jpg",
+    "streamUrl": "https://stream.zeno.fm/jqmyjaoycfkvv?n=38890f363e96f7603ab7"
+  },
+  {
+    "id": "16",
+    "title": "Krishna Bhakti Radio",
+    "image": "https://path-to-your-image/KRISHNA.jpeg",
+    "streamUrl": "http://stream.zeno.fm/nqvcaqevkx5vv?n=75fae12a360974174193"
+  },
+  {
+    "id": "17",
+    "title": "Bhagwat Geeta Radio",
+    "image": "https://path-to-your-image/geeta.jpg",
+    "streamUrl": "http://stream.zeno.fm/nqvcaqevkx5vv?n=75fae12a360974174193"
+  }
+]

@@ -2,14 +2,14 @@
   {
     "id": "1",
     "title": "Buxar Radio Br-44",
-    "image": "https://stream-153.zeno.fm/s6vu9rzucfhvv?zs=1QhspwD_RkCml9FXXBxNWg&#038",
-    "streamUrl": "http://192.168.146.42:8000/stream"
+    "image": "https://i.postimg.cc/BvTwnFy0/buxarlogo.jpg",
+    "streamUrl": "https://stream-153.zeno.fm/s6vu9rzucfhvv?zs=1QhspwD_RkCml9FXXBxNWg&#038"
   },
   {
     "id": "2",
     "title": "Anant Prakash Radio",
     "image": "https://i.postimg.cc/Hx3ZQgdv/ap.png",
-    "streamUrl": "http://192.168.146.42:8000/stream"
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
   },
   {
     "id": "3",

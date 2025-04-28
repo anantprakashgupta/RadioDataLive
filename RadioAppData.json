@@ -71,56 +71,98 @@
     "image": "https://i.postimg.cc/jjnxjqj8/kishor.webp",
     "streamUrl": "https://stream-48.zeno.fm/0ghtfp8ztm0uv"
   },
-  {
+    {
     "id": "13",
+    "title": "Bhojpuri Radio",
+    "image": "https://yt3.googleusercontent.com/19Dtr_m-oYxOoQCIXAjnGtJjiA0nz-LdWgpDlAQ_s8Zs3bA1PgAPxB8NXeUfr8qT_uAtcv-l=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://stream.zeno.fm/wvms51v1dy8uv"
+  },
+  {
+    "id": "14",
     "title": "Mohammad Raffi Radio",
     "image": "https://i.postimg.cc/bNqwRj6J/raffi.jpg",
     "streamUrl": "https://stream.zeno.fm/6yqvumgfxtzuv"
   },
+    {
+    "id": "15",
+    "title": "Bhojpuri Item Songs",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://stream.zeno.fm/kq9rhfrkzv7uv"
+  },
   {
-    "id": "14",
+    "id": "16",
     "title": "Anant Prakash Radio",
     "image": "https://i.postimg.cc/Hx3ZQgdv/ap.png",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
   },
+      {
+    "id": "17",
+    "title": "Bhojpuri Gold",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS901fHIKYzVonKQ4EXhQ4L--UN5vFDDUERA&s",
+    "streamUrl": "https://stream.zeno.fm/gxgncq8t2gruv"
+  },
   {
-    "id": "15",
+    "id": "18",
     "title": "Lata Mangeshkar Radio",
     "image": "https://i.postimg.cc/Tw8R58LT/lata.webp",
     "streamUrl": "https://stream.zeno.fm/87xam8pf7tzuv"
   },
+      {
+    "id": "19",
+    "title": "Bhojpuri Digital",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://stream.zeno.fm/ijayychxbzvuv"
+  },
   {
-    "id": "16",
+    "id": "20",
     "title": "Bhakti Sagar Radio",
     "image": "https://i.postimg.cc/nrppTvG5/bhakti-sagar.jpg",
     "streamUrl": "https://stream.zeno.fm/lcida9v81nmvv"
   },
+        {
+    "id": "21",
+    "title": "Bhojpuri Trending",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://stream.zeno.fm/yz0ncx9gha0uv"
+  },
   {
-    "id": "17",
+    "id": "22",
     "title": "Krishna Bhakti Radio",
     "image": "https://i.postimg.cc/DwMfF47J/krishna-bhakti.jpg",
     "streamUrl": "http://stream.zeno.fm/nqvcaqevkx5vv"
   },
+   {
+    "id": "23",
+    "title": "Bhojpuri Jhakash",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://stream.zeno.fm/mvjmtqxm6ybvv"
+  },
+   {
+    "id": "24",
+    "title": "Hindi Radio City",
+    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
+    "streamUrl": "https://stream.zeno.fm/pxc55r5uyc9uv"
+  },
   {
-    "id": "18",
+    "id": "25",
     "title": "Bhakti Hanuman Radio",
     "image": "https://i.postimg.cc/7h9DRfBL/hanuman-ji.png",
     "streamUrl": "https://dard.out.airtime.pro/dard_a"
   },
   {
-    "id": "19",
+    "id": "26",
     "title": "Bhojpuri Bhakti Radio",
     "image": "https://i.postimg.cc/G3xct5c1/durgaji.jpg",
     "streamUrl": "https://stream.zeno.fm/jqmyjaoycfkvv"
   },
   {
-    "id": "20",
+    "id": "27",
     "title": "Bhagwat Geeta Radio",
     "image": "https://i.postimg.cc/qMBp3xR6/bhagawatgeeta.webp",
     "streamUrl": "http://stream.zeno.fm/nqvcaqevkx5vv"
   },
   {
-    "id": "21",
+    "id": "28",
     "title": "Jubin Noutiyal Radio",
     "image": "https://i.postimg.cc/pTDPD0zz/jubin.jpg",
     "streamUrl": "https://stream.zeno.fm/hktp6atuuy8uv"

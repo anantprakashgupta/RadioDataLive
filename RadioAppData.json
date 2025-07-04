@@ -154,41 +154,5 @@
     "title": "Jubin Noutiyal Radio",
     "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
     "streamUrl": "https://stream.zeno.fm/hktp6atuuy8uv"
-  },
-  {
-    "id": "27",
-    "title": "Mirchi Indore 98.3",
-    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
-  },
-  {
-    "id": "28",
-    "title": "Akashwani Indore",
-    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
-    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8"
-  },
-  {
-    "id": "29",
-    "title": "AIR Indore (Chunked)",
-    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
-    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8"
-  },
-  {
-    "id": "30",
-    "title": "Radio Mirchi Patna",
-    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
-  },
-  {
-    "id": "31",
-    "title": "Radio Mirchi Mumbai",
-    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
-    "streamUrl": "https://stream.zeno.fm/wgaznsmt92quv"
-  },
-  {
-    "id": "32",
-    "title": "Radio City Mumbai",
-    "image": "https://i.postimg.cc/Y0BggqJs/Chat-GPT-Image-Mar-31-2025-11-22-49-AM.png",
-    "streamUrl": "https://stream.zeno.fm/pxc55r5uyc9uv"
   }
 ]

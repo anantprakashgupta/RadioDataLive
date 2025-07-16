@@ -160,5 +160,23 @@
     "title": "indore Mirchi 98.3",
     "image": "https://i.postimg.cc/qqSp41fp/radiomirchiindore.webp",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
+  },
+   {
+    "id": "28",
+    "title": "Akashwani Indore",
+    "image": "https://i.postimg.cc/HnXTWQT5/akashwaniindore.webp",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8"
+  },
+   {
+    "id": "29",
+    "title": "Air Indore",
+    "image": "https://i.postimg.cc/y6Z1Tz0d/airindore.webp",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8"
+  },
+     {
+    "id": "30",
+    "title": "Radio Mirchi Patna",
+    "image": "https://i.postimg.cc/0Qt8H8cM/radiomirchipatna.webp",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8"
   }
 ]
